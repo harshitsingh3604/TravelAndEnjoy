@@ -1,4 +1,4 @@
-import { FEATURES } from '@/constant'
+import { FEATURES } from '@/Constant'
 import Image from 'next/image'
 import React from 'react'
 

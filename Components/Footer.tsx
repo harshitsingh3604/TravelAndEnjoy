@@ -1,4 +1,4 @@
-import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from '@/constant'
+import { FOOTER_CONTACT_INFO, FOOTER_LINKS, SOCIALS } from '@/Constant'
 import Image from 'next/image'
 import Link from 'next/link'
 import React from 'react'
